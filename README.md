@@ -2,495 +2,152 @@
 
 ### AI Engineer · Data Scientist · AI Product Builder
 
-> I build intelligent systems that turn real-world problems into working AI products.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-<p align="center">
-  🤖 Generative AI &nbsp; • &nbsp;
-  🧠 RAG Systems &nbsp; • &nbsp;
-  🔎 AI Search &nbsp; • &nbsp;
-  📞 Voice AI &nbsp; • &nbsp;
-  👁️ Computer Vision &nbsp; • &nbsp;
-  ⚙️ AI Agents
-</p>
+**Building intelligent products at the intersection of AI, software engineering, and data.**
 
 ---
 
-## 👋 About Me
+## About
 
-I'm a **Data Science graduate and AI-focused software builder** interested in turning modern AI capabilities into practical, usable products.
+I'm a **Data Science graduate and AI-focused engineer** who enjoys turning real-world problems into practical software.
 
-My work sits at the intersection of:
+My work focuses on **Generative AI, RAG, AI agents, voice systems, computer vision, and AI-powered developer tools**.
 
-* 🤖 Generative AI & LLM applications
-* 🧠 Retrieval-Augmented Generation (RAG)
-* 🔎 AI-powered search & knowledge systems
-* 📞 Voice AI & conversational agents
-* 🛡️ AI-powered developer and security tools
-* 👁️ Computer Vision & Multimodal AI
-* ⚙️ Intelligent automation & API systems
-* 🌐 Full-stack AI applications
-* 📊 Data-driven software systems
+I care about more than making a model work. I care about building the **system around the model** — retrieval, APIs, integrations, product interfaces, infrastructure, and deployment.
 
-I enjoy taking an idea from:
-
-**Problem → Architecture → Implementation → Deployment → Usable Product**
+**Problem → Intelligence → Engineering → Product → Production**
 
 ---
 
-# 🚀 What I'm Building
+## What I Build
 
-```text
-                         REAL-WORLD PROBLEM
-                                  │
-                                  ▼
-                         AI / DATA STRATEGY
-                                  │
-                                  ▼
-                         SYSTEM ARCHITECTURE
-                                  │
-                 ┌────────────────┼────────────────┐
-                 ▼                ▼                ▼
-               LLMs             RAG             AGENTS
-                 │                │                │
-                 └────────────────┼────────────────┘
-                                  ▼
-                    COMPUTER VISION / MULTIMODAL
-                                  │
-                                  ▼
-                         BACKEND & APIs
-                                  │
-                                  ▼
-                    FRONTEND / PRODUCT EXPERIENCE
-                                  │
-                                  ▼
-                            DEPLOYMENT
-                                  │
-                                  ▼
-                       WORKING AI PRODUCT
-```
+|     | Focus                                                               |
+| --- | ------------------------------------------------------------------- |
+| 🤖  | **Generative AI** — LLM applications & multimodal systems           |
+| 🧠  | **RAG & Knowledge Systems** — retrieval, embeddings & vector search |
+| ⚙️  | **AI Agents** — tool calling, APIs & automation                     |
+| 📞  | **Voice AI** — conversational systems & telephony                   |
+| 👁️ | **Computer Vision** — classification, segmentation & multimodal AI  |
+| 🛡️ | **AI Security** — intelligent developer & security tools            |
 
 ---
 
-# 🧠 What I Build
+## Selected Work
 
-### 🤖 Generative AI
-
-LLM-powered applications designed around real-world workflows.
-
-**LLMs · Prompt Engineering · Multimodal AI**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
-
-### 🧠 RAG & Knowledge Systems
-
-Systems that transform large document collections into searchable, grounded knowledge.
-
-**Embeddings · Vector Search · pgvector · Retrieval Pipelines**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
-</p>
-
----
-
-### ⚙️ AI Agents
-
-AI systems that connect reasoning with tools, APIs, data and actions.
-
-**Agents · Tool Calling · Automation · API Integration**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
-
----
-
-### 📞 Voice AI
-
-Conversational phone systems that connect AI with real-world communication.
-
-**Twilio · Ultravox · OpenAI · Conversational Workflows**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
-
-### 👁️ Computer Vision
-
-Deep-learning systems for understanding and analyzing visual information.
-
-**TensorFlow · Keras · CNNs · U-Net · Multimodal AI**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
-</p>
-
----
-
-### 🛡️ AI Security
-
-Developer tools that use AI and deterministic analysis to identify software risks.
-
-**IBM Granite · Security Analysis · Code Intelligence**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs" />
-</p>
-
----
-
-# 🔥 Selected Work
-
-## 🏛️ Sharon AI
+### 🏛️ Sharon AI
 
 **Legal Document Intelligence · RAG · Knowledge Retrieval**
 
-An end-to-end AI knowledge system built to help internal teams find reliable information across large collections of organizational documents.
+End-to-end AI knowledge system for finding reliable information across large document collections with grounded, citation-backed answers.
 
-```text
-Documents
-    ↓
-Preprocessing
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-Vector Search
-    ↓
-LLM
-    ↓
-Grounded Answer + Citations
-```
-
-**Built with**
-
-`Next.js` · `TypeScript` · `FastAPI` · `Python` · `OpenAI` · `LangChain` · `Supabase` · `PostgreSQL` · `pgvector` · `AWS` · `Docker`
-
-🔗 **Repository:** https://github.com/umairimran/Shrone_Agent_
-
-🚀 **Live:** https://frontend-2-olive.vercel.app/
+`Next.js` `TypeScript` `FastAPI` `OpenAI` `LangChain` `Supabase` `PostgreSQL` `pgvector` `AWS` `Docker`
 
 ---
 
-## 📞 Faith Agency AI Calling
+### 📞 Faith Agency AI Calling
 
 **Voice AI · Automation · Telephony**
 
-AI-powered inbound calling system connecting phone conversations with intelligent routing, information extraction and automated follow-up workflows.
+AI-powered inbound calling system connecting phone conversations with intelligent routing, information extraction, and automated follow-up workflows.
 
-```text
-Caller
-  ↓
-Twilio
-  ↓
-Voice AI
-  ↓
-Conversation
-  ↓
-Department Routing
-  ↓
-Information Extraction
-  ↓
-Sheets + SMS + Email
-```
-
-**Built with**
-
-`Python` · `FastAPI` · `Twilio` · `Ultravox` · `OpenAI` · `Google Sheets` · `SendGrid` · `Docker`
-
-🔗 **Repository:** https://github.com/umairimran/Inbound_Calling
+`Python` `FastAPI` `Twilio` `Ultravox` `OpenAI` `Google Sheets` `Docker`
 
 ---
 
-## 🛡️ CodeGuardian AI
+### 🛡️ CodeGuardian AI
 
 **AI Code Security · IBM Granite · Developer Tools**
 
-AI-powered code analysis platform built for the **IBM Build-on-Belief Hackathon**.
+AI-powered code analysis platform built for the **IBM Build-on-Belief Hackathon**, combining AI reasoning with deterministic security analysis.
 
-Combines AI-assisted analysis with deterministic security rules to identify vulnerabilities and provide actionable remediation.
-
-**Focus**
-
-`Secrets` · `Credentials` · `SQL Injection` · `XSS` · `Cryptography` · `Validation` · `Route Security`
-
-**Built with**
-
-`Next.js` · `TypeScript` · `IBM Granite` · `watsonx.ai` · `Tailwind CSS` · `Zustand` · `Recharts`
-
-🔗 **Repository:** https://github.com/umairimran/CodeGuardianAI
-
-🚀 **Live:** https://ibm-bob-hackathon-nu.vercel.app/
+`Next.js` `TypeScript` `IBM Granite` `watsonx.ai` `Tailwind CSS`
 
 ---
 
-## 🌊 FloodScout
+### 🌊 FloodScout
 
 **Multimodal AI · Computer Vision · Damage Assessment**
 
-Multimodal AI system exploring vision-language reasoning for flood damage, severity, hazards and repair estimation.
+Multimodal AI system for flood damage assessment, severity analysis, hazard detection, and repair estimation.
 
-**Built with**
-
-`Google Gemini` · `React` · `Next.js` · `Tailwind CSS` · `Multimodal AI` · `Prompt Engineering`
-
-🎥 **Project Demo available**
+`Gemini` `React` `Next.js` `Tailwind CSS` `Multimodal AI`
 
 ---
 
-## 🔥 Fire Monitoring & Analysis
+### 🔥 Fire Monitoring & Analysis
 
 **Computer Vision · Segmentation · Explainable AI · NLP**
 
-Deep-learning system combining computer vision and NLP for wildfire monitoring and analysis.
+Deep-learning system combining image classification, segmentation, visual explanations, and wildfire question answering.
 
-Includes:
-
-* 🔬 Image classification
-* 🎯 Semantic segmentation
-* 🔍 Visual explanations
-* 💬 Wildfire question answering
-
-**Models & Technologies**
-
-`DenseNet121` · `ResNet50` · `EfficientNet` · `MobileNet` · `U-Net` · `BERT` · `Gemini`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+`TensorFlow` `Keras` `U-Net` `DenseNet121` `ResNet50` `BERT` `Gemini`
 
 ---
 
-## 🌱 GROWISE
+### 🌱 GROWISE
 
-**Agriculture · AI · Data · Full-Stack Systems**
+**Agriculture · AI · Data · Full-Stack**
 
-Full-stack agricultural technology project exploring intelligent assistance, data-driven workflows and AI-powered applications.
+Full-stack agricultural technology project exploring intelligent assistance, RAG, and data-driven workflows.
 
-**Built with**
-
-`TypeScript` · `React` · `Next.js` · `Python` · `AI` · `RAG`
-
-🚀 **Live:** https://growise-ten.vercel.app/
+`TypeScript` `React` `Next.js` `Python` `RAG`
 
 ---
 
-# ⚡ Engineering Stack
+## Engineering Stack
 
-### 🤖 AI / Machine Learning
+**AI / ML**
+🐍 Python · TensorFlow · PyTorch · OpenCV · Keras
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
+**Generative AI**
+🤖 OpenAI · Gemini · IBM Granite · LangChain · RAG · AI Agents · Vector Search
 
-`Python` · `TensorFlow` · `PyTorch` · `OpenCV`
+**Software**
+⚛️ React · Next.js · TypeScript · JavaScript · Node.js · FastAPI
 
----
+**Data**
+🗄️ PostgreSQL · MySQL · MongoDB · Supabase · Redis
 
-### 🧠 Generative AI
-
-`OpenAI` · `Gemini` · `IBM Granite` · `LangChain` · `RAG` · `AI Agents` · `Vector Search` · `Prompt Engineering`
-
----
-
-### 💻 Software Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi" />
-</p>
-
-`Python` · `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `FastAPI`
+**Cloud & DevOps**
+☁️ AWS · Docker · Vercel · GitHub Actions · Linux · Git
 
 ---
 
-### 🗄️ Data & Infrastructure
+## How I Approach AI Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
-</p>
+I don't see AI as an isolated model.
 
-`PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Redis`
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions,linux,git,github" />
-</p>
-
-`AWS` · `Docker` · `Vercel` · `GitHub Actions` · `Linux` · `Git` · `GitHub`
-
----
-
-# 🏗️ How I Approach AI Engineering
-
-> **AI systems are systems, not isolated models.**
-
-```text
-Problem
-   ↓
-Data
-   ↓
-LLM / RAG / Vision
-   ↓
-Backend
-   ↓
-Product
-   ↓
-Production
-```
-
-I focus on building the engineering layer around intelligence:
+I see it as a complete system:
 
 **Data → Retrieval → Reasoning → APIs → Product → Infrastructure → Production**
 
-> *“The interesting engineering usually happens between the model and the user.”*
+> *The interesting engineering usually happens between the model and the user.*
 
 ---
 
-# 🔬 Beyond the Model
+## 🏆 Competitions
 
-### 📊 Data
+**IBM Build-on-Belief Hackathon**
+→ CodeGuardian AI
 
-Clean inputs, useful metadata and reliable data pipelines.
-
-### 🔎 Retrieval
-
-Find the right information before asking an LLM to reason over it.
-
-### 🏗️ Architecture
-
-Design systems that remain understandable and maintainable as they grow.
-
-### ⚙️ Engineering
-
-APIs, databases, authentication, testing, integrations, deployment and observability.
-
-### 🎨 Product
-
-Turn intelligence into something people can actually use.
-
-### 🚀 Production
-
-Move beyond experiments and build systems capable of serving real users.
+**WPBrigade Hackathon — Dev Launch Edition**
+→ FloodScout
 
 ---
 
-# 🏆 Competitions & Building
+## Currently
 
-### 🧠 IBM Build-on-Belief Hackathon
+**Agentic AI · Advanced RAG · Multimodal Intelligence · Voice AI · AI Infrastructure · Production Engineering**
 
-**Project:** CodeGuardian AI
-
-AI-powered code security platform using IBM Granite and deterministic security analysis.
-
-### 🌊 WPBrigade Hackathon — Dev Launch Edition
-
-**Project:** FloodScout
-
-Multimodal AI system for flood damage assessment.
-
-### 🤖 AI / ML Projects
-
-Exploring and building systems across:
-
-`Generative AI` · `RAG` · `Computer Vision` · `NLP` · `Voice AI` · `Automation`
+> **Build fewer toy projects. Build more useful systems.**
 
 ---
 
-# 📚 Currently
-
-```text
-BUILDING
-   ↓
-Agentic AI
-Advanced RAG
-Multimodal Intelligence
-Voice AI
-AI Infrastructure
-Production Engineering
-   ↓
-LEARNING
-   ↓
-SHIPPING
-```
-
-> **“Build fewer toy projects. Build more useful systems.”**
-
----
-
-# 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairimran&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairimran&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairimran&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
-# 🌎 Vision
+## Vision
 
 ### AI × Software × Data × Entrepreneurship
 
-My long-term direction is simple:
-
-**Build technically strong products that solve meaningful problems and are capable of reaching users at scale.**
-
-I want to work at the intersection of:
-
-```text
-Artificial Intelligence
-        ×
-Software Engineering
-        ×
-Data
-        ×
-Entrepreneurship
-```
-
----
-
-# 🤝 Connect
+Building technically strong products that solve meaningful problems and can reach users at scale.
 
 <p align="center">
-
-<a href="https://github.com/umairimran">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/umairimran627">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### Build. Learn. Ship. Repeat.
-
+  <b>Build. Learn. Ship. Repeat.</b>
 </p>
